@@ -4,3 +4,4 @@ phpunit.xml
 Propel/om/*
 Propel/map/*
 vendor/
+.idea/
